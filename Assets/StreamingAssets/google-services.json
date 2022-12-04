@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "project_number": "119481323957",
+    "firebase_url": "https://shmulikfbtest.firebaseio.com",
+    "project_id": "shmulikfbtest",
+    "storage_bucket": "shmulikfbtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119481323957:android:2407e1811289decdd109fc",
+        "android_client_info": {
+          "package_name": "com.crazylabs.jetpack.vs.colors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119481323957-0m0avsh18j07u419ehndfjjcr4n6nrod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzv91jBpNDjMnHXTY7dbLtyl7L-ryREuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119481323957-0m0avsh18j07u419ehndfjjcr4n6nrod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119481323957-l3aii3qprj6he62256l19puok8h2s0fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crazylabs.jetpackvscolors"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119481323957:android:e41bbd2c2578e8a4",
+        "android_client_info": {
+          "package_name": "com.tabtale.shmulik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119481323957-0m0avsh18j07u419ehndfjjcr4n6nrod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzv91jBpNDjMnHXTY7dbLtyl7L-ryREuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119481323957-0m0avsh18j07u419ehndfjjcr4n6nrod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119481323957-l3aii3qprj6he62256l19puok8h2s0fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crazylabs.jetpackvscolors"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119481323957:android:e27337b3b5082218d109fc",
+        "android_client_info": {
+          "package_name": "com.tabtaleint.fbdl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119481323957-udpm6ab3jmqku0ivj06r0k6ie8jrplf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tabtaleint.fbdl",
+            "certificate_hash": "2e6db24d691907bd17b05573cb23be820567d524"
+          }
+        },
+        {
+          "client_id": "119481323957-0m0avsh18j07u419ehndfjjcr4n6nrod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzv91jBpNDjMnHXTY7dbLtyl7L-ryREuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119481323957-0m0avsh18j07u419ehndfjjcr4n6nrod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119481323957-l3aii3qprj6he62256l19puok8h2s0fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crazylabs.jetpackvscolors"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119481323957:android:bd4ea0d423ba4c92d109fc",
+        "android_client_info": {
+          "package_name": "com.tabtaleint.ttplugins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119481323957-0m0avsh18j07u419ehndfjjcr4n6nrod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzv91jBpNDjMnHXTY7dbLtyl7L-ryREuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119481323957-0m0avsh18j07u419ehndfjjcr4n6nrod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119481323957-l3aii3qprj6he62256l19puok8h2s0fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crazylabs.jetpackvscolors"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119481323957:android:6e9271f37ac0ed74",
+        "android_client_info": {
+          "package_name": "com.tabtaleint.uptaiap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119481323957-0m0avsh18j07u419ehndfjjcr4n6nrod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzv91jBpNDjMnHXTY7dbLtyl7L-ryREuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119481323957-0m0avsh18j07u419ehndfjjcr4n6nrod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119481323957-l3aii3qprj6he62256l19puok8h2s0fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crazylabs.jetpackvscolors"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

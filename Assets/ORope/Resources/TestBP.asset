@@ -1,0 +1,366 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3789163485432914203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 775ad4994fda946d1a5936c7e2dfc785, type: 3}
+  m_Name: control point
+  m_EditorClassIdentifier: 
+  particleIndices: 16000000
+  m_Blueprint: {fileID: 11400000}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7e67b5626124d0db9886e6cd2aacff, type: 3}
+  m_Name: TestBP
+  m_EditorClassIdentifier: 
+  m_Empty: 1
+  m_ActiveParticleCount: 0
+  m_InitialActiveParticleCount: 23
+  _bounds:
+    m_Center: {x: -0.00000011920929, y: 0, z: 0}
+    m_Extent: {x: 0.9999999, y: 0, z: 0}
+  positions: []
+  restPositions: []
+  orientations: []
+  restOrientations: []
+  velocities: []
+  angularVelocities: []
+  invMasses: []
+  invRotationalMasses: []
+  filters: 
+  principalRadii: []
+  colors: []
+  points: 
+  edges: 
+  triangles: 
+  distanceConstraintsData:
+    batches: []
+  bendConstraintsData:
+    batches: []
+  skinConstraintsData:
+    batches: []
+  tetherConstraintsData:
+    batches: []
+  stretchShearConstraintsData:
+    batches: []
+  bendTwistConstraintsData:
+    batches: []
+  shapeMatchingConstraintsData:
+    batches: []
+  aerodynamicConstraintsData:
+    batches: []
+  chainConstraintsData:
+    batches: []
+  volumeConstraintsData:
+    batches: []
+  groups:
+  - {fileID: 5757966804633171500}
+  - {fileID: 0}
+  - {fileID: 3343675031034541777}
+  - {fileID: -3789163485432914203}
+  path:
+    m_Names:
+    - control point
+    - control point
+    - control point
+    - control point
+    m_Points:
+      data:
+      - tangentMode: 0
+        inTangent: {x: -0.25, y: -0, z: -0}
+        position: {x: -1, y: 0, z: 0}
+        outTangent: {x: 0.006939769, y: 0, z: 0}
+      - tangentMode: 0
+        inTangent: {x: -0.008812785, y: 0, z: 0}
+        position: {x: -0.97634435, y: 0, z: 0}
+        outTangent: {x: 0.01224339, y: 0, z: 0}
+      - tangentMode: 0
+        inTangent: {x: -0.015611708, y: 0, z: 0}
+        position: {x: -0.93449, y: 0, z: 0}
+        outTangent: {x: 0.3779648, y: -0, z: -0}
+      - tangentMode: 0
+        inTangent: {x: -0.23341888, y: 0, z: 0}
+        position: {x: 0.56554604, y: 0, z: 0}
+        outTangent: {x: 0.25, y: 0, z: 0}
+    m_Normals:
+      data:
+      - {x: 0, y: 1, z: 0}
+      - {x: 0, y: 1.0000001, z: 0}
+      - {x: 0, y: 1.0000001, z: 0}
+      - {x: 0, y: 1, z: 0}
+    m_Colors:
+      data:
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1.0000001, g: 1.0000001, b: 1.0000001, a: 1.0000001}
+      - {r: 1.0000001, g: 1.0000001, b: 1.0000001, a: 1.0000001}
+      - {r: 1, g: 1, b: 1, a: 1}
+    m_Thickness:
+      data:
+      - 0.1
+      - 0.10000002
+      - 0.10000001
+      - 0.1
+    m_Masses:
+      data:
+      - 0.1
+      - 0.10000002
+      - 0.10000001
+      - 0.1
+    m_RotationalMasses:
+      data:
+      - 1
+      - 1.0000001
+      - 1.0000001
+      - 1
+    m_Filters:
+      data: 0200ffff0200ffff0200ffff0200ffff
+    m_Closed: 0
+    m_ArcLengthTable:
+    - 0
+    - 0.000997943
+    - 0.0020089578
+    - 0.0030330098
+    - 0.004070064
+    - 0.0051200856
+    - 0.0061830403
+    - 0.0072588925
+    - 0.008347608
+    - 0.009449152
+    - 0.01056349
+    - 0.011690588
+    - 0.012830408
+    - 0.013982919
+    - 0.015148085
+    - 0.01632587
+    - 0.01751624
+    - 0.01871916
+    - 0.019934598
+    - 0.021162516
+    - 0.022402879
+    - 0.023655653
+    - 0.025416639
+    - 0.02720142
+    - 0.029009905
+    - 0.030841999
+    - 0.03269761
+    - 0.034576647
+    - 0.036479015
+    - 0.03840462
+    - 0.040353373
+    - 0.042325176
+    - 0.044319943
+    - 0.046337575
+    - 0.048377983
+    - 0.05044107
+    - 0.05252675
+    - 0.05463492
+    - 0.056765497
+    - 0.058918383
+    - 0.061093487
+    - 0.063290715
+    - 0.065509975
+    - 0.122853115
+    - 0.186389
+    - 0.25536227
+    - 0.32901755
+    - 0.40659946
+    - 0.48735267
+    - 0.5705217
+    - 0.6553513
+    - 0.74108595
+    - 0.8269704
+    - 0.91224927
+    - 0.99616706
+    - 1.0779685
+    - 1.1568981
+    - 1.2322007
+    - 1.3031209
+    - 1.368903
+    - 1.428792
+    - 1.4820324
+    - 1.5278687
+    - 1.5655458
+    m_TotalSplineLenght: 1.5655458
+    OnPathChanged:
+      m_PersistentCalls:
+        m_Calls: []
+    OnControlPointAdded:
+      m_PersistentCalls:
+        m_Calls: []
+    OnControlPointRemoved:
+      m_PersistentCalls:
+        m_Calls: []
+    OnControlPointRenamed:
+      m_PersistentCalls:
+        m_Calls: []
+  thickness: 0.1
+  resolution: 1
+  m_InterParticleDistance: 0.09090909
+  totalParticles: 123
+  m_RestLength: 11.0909
+  restLengths:
+  - 0.023655653
+  - 0.041854322
+  - 0.09536517
+  - 0.09719849
+  - 0.09706366
+  - 0.09680158
+  - 0.09670362
+  - 0.09674075
+  - 0.09682891
+  - 0.09689456
+  - 0.09688602
+  - 0.096775144
+  - 0.09677746
+  - 0.09690574
+  - 0.09692556
+  - 0.09688458
+  - 0.09683895
+  - 0.09684825
+  - 0.096937
+  - 0.09691584
+  - 0.095657706
+  - 0.09654087
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0.09090909
+  - 0
+  pooledParticles: 100
+--- !u!114 &3343675031034541777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 775ad4994fda946d1a5936c7e2dfc785, type: 3}
+  m_Name: control point
+  m_EditorClassIdentifier: 
+  particleIndices: 02000000
+  m_Blueprint: {fileID: 11400000}
+--- !u!114 &5757966804633171500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 775ad4994fda946d1a5936c7e2dfc785, type: 3}
+  m_Name: control point
+  m_EditorClassIdentifier: 
+  particleIndices: 00000000
+  m_Blueprint: {fileID: 11400000}

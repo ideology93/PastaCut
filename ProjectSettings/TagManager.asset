@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Noodle
+  - Water
+  - Drops
+  - Flour
+  - Egg
+  - Grateable
+  - Cockroach
+  - Sauce
+  - col
+  - destroy
+  - sticky
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - cheese
+  - Water
+  - UI
+  - bigcarrot
+  - carrotslice
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
